@@ -1,0 +1,2 @@
+# prolog-test
+Prologをいじるようのレポジトリ
